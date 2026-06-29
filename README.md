@@ -111,11 +111,6 @@ TaskFlow/
 | GET | /api/stats/trend | 趋势统计 |
 | GET | /api/stats/category-distribution | 分类分布 |
 
-## 开发账号
-
-- 用户名: `zhangsan`
-- 密码: `SecurePass123!`
-- 邮箱: `zhangsan@example.com`
 
 ## 环境变量
 
